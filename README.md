@@ -1,13 +1,16 @@
-# Pokémon Yellow
+# Pokémon Yellow Korean Fan translation
 
-This is a disassembly of Pokémon Yellow.
+This is a disassembly of Pokémon Yellow Korean Fan Translation Project.
 
-It builds the following rom:
+This is my first time of using github so I don't know is it right to using like this.
 
-* Pokemon Yellow (UE) [C][!].gbc  `md5: d9290db87b1f0a23b89f99ee4469e34b`
+This source code is version 0.99
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+Few bugs related to korean font extension and Vram bank controls are remained.
 
+(Flankly Speaking, I don't know it really built)
+
+Thanks for pret, who makes Disassembly of Pokemon Yellow(E)
 
 ## See also
 
