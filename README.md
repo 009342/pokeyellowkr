@@ -10,14 +10,10 @@ Few bugs related to korean font extension and Vram bank controls are remained.
 
 (Flankly Speaking, I don't know it really built)
 
+It is only allowed to use as studying purpose
 Thanks for pret, who makes Disassembly of Pokemon Yellow(E)
 
-## See also
+## Credit
+Programer: WindowsTiger(ME!), NoeiSsi
+Translator: MGT, EnSacheol
 
-* Disassembly of [**Pokémon Red/Blue**][pokered]
-* Disassembly of [**Pokémon Crystal**][pokecrystal]
-* irc: **irc.freenode.net** [**#pret**][irc]
-
-[pokered]: https://github.com/iimarckus/pokered
-[pokecrystal]: https://github.com/kanzure/pokecrystal
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
